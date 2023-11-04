@@ -1,7 +1,7 @@
   
 import axios from 'axios';
 
-const url = 'http://localhost:4000';
+const url = 'https://whatsapp-clone3.onrender.com';
 
 export const addUser = async (data) => {
     try {
